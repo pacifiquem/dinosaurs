@@ -2499,3 +2499,7 @@ harshithap2000-dai_deprivation"
 "DominusTrax_derp_dinop"
 
 ![](DominusTrax_derp_dinop.png)
+
+"dalio48_dinoyo"
+
+![](dalio48_dinoyo.png)
