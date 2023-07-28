@@ -2549,3 +2549,7 @@ the following lines to the bottom of the file:
 "18001767679_dino"
 
 ![](18001767679_dino.png)
+
+"dlahmanchuk_dino"
+
+![](dlahmanchuk_dino.png)
