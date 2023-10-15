@@ -2688,3 +2688,6 @@ dd the following lines to the bottom of the file:
 "jdogcoder_jdogdino"
 
 ![](jdogcoder_jdogdino.png)
+
+"aramshi_dino"
+![](A really really good dino drawing.png)
